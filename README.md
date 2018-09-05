@@ -1,0 +1,2 @@
+# class
+Cloning for class
